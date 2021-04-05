@@ -1,4 +1,4 @@
-Repo of submitted paper (Bifarin _et_ _al_ 2021 Journal Proteome Research)
+Repo for submitted paper (Bifarin _et_ _al_ 2021 Journal Proteome Research)
 
 # Machine Learning-enabled Renal Cell Carcinoma Status Prediction Using Multi-Platform Urine-based Metabolomics
 
